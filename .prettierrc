@@ -9,9 +9,9 @@
   "bracketSameLine": true,
   "singleAttributePerLine": true,
   "importOrder": [
-    "^@core/(.*)$",
-    "^@server/(.*)$",
-    "^@ui/(.*)$",
+    "^react/(.*)$",
+    "^@mui/(.*)$",
+    "./components",
     "^[./]"
   ],
   "importOrderSeparation": false,
